@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/nutroleanpro-weight-loss-sverige/sitemap.xml
+Sitemap: https://nutroleanpro-weight-loss-sverige.vercel.app/sitemap-vercel.xml
+Sitemap: https://nutroleanpro-weight-loss-sverige.pages.dev/sitemap-cloudflare.xml
